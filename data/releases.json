@@ -1,0 +1,22 @@
+[
+  {
+    "version": "2.4.0",
+    "date": "2026-09-18",
+    "highlight": "Sentinel-2 tile caching cuts typical coastline jobs by 40%"
+  },
+  {
+    "version": "2.3.2",
+    "date": "2026-06-30",
+    "highlight": "Fixes CRS reprojection errors on southern-hemisphere scenes"
+  },
+  {
+    "version": "2.3.0",
+    "date": "2026-04-02",
+    "highlight": "Adds the Coastline Change Index export in GeoParquet"
+  },
+  {
+    "version": "2.2.0",
+    "date": "2025-12-11",
+    "highlight": "First release with GPU-accelerated tiling"
+  }
+]

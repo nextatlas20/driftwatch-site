@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dr. Amara Osei",
+    "role": "Project Lead and Maintainer",
+    "affiliation": "Coastline Data Trust"
+  },
+  {
+    "name": "Ingrid Solberg",
+    "role": "Emeritus Maintainer",
+    "affiliation": "Northbank University"
+  },
+  {
+    "name": "Lena Fischer",
+    "role": "Documentation Maintainer",
+    "affiliation": "Coastline Data Trust"
+  },
+  {
+    "name": "Priya Raman",
+    "role": "Release Manager",
+    "affiliation": "Northbank University"
+  },
+  {
+    "name": "Ravi Krishnan",
+    "role": "Core Maintainer",
+    "affiliation": "Northbank University"
+  },
+  {
+    "name": "Tomás Herrera",
+    "role": "Community Manager",
+    "affiliation": "Coastline Data Trust"
+  }
+]
